@@ -1,0 +1,20 @@
+CORE COMPUTER SCIENCE CONCEPT – TIME COMPLEXITY
+
+   Time complexity measures how fast an algorithm runs as input size grows.
+
+Common complexities :
+
+     O(1) – Access array element
+     O(log n) – Binary search
+     O(n) – Linear search
+     O(n log n) – Merge sort
+     O(n²) – Bubble sort
+
+
+   Example :
+
+      for i in range(n):
+      print(i)
+
+   Time Complexity
+   O(n)
