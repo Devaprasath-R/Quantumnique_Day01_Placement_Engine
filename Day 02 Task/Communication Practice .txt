@@ -1,0 +1,37 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+  Speak for 2–3 minutes on:
+
+   Explain Your Final Year Project
+
+    Include :
+
+       - Project title
+       - Problem statement
+       - Technologies used
+       - Your role in the project
+       - Challenges faced
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ Project Title
+
+    AI Webpage Template Suggestor
+
+ Problem Statement
+
+    Many users, especially beginners, find it difficult to choose the right webpage template. They spend a lot of time searching and still feel confused because there are too many options. There is no simple system that gives the best template based on user needs.
+
+Technologies Used
+
+   I used HTML, CSS, JavaScript, React, and Node.js to develop this project.
+
+ My Role in the Project
+
+   I developed both the frontend and backend of the project.
+   I also worked on the AI suggestion feature and designed the user interface to make it simple and easy to use.
+
+ Challenges Faced
+
+   I faced challenges in giving accurate template suggestions and connecting frontend with backend.
+   I solved these problems by testing different methods and improving the system step by step.
