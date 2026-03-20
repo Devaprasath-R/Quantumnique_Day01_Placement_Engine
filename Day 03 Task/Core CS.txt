@@ -1,0 +1,8 @@
+CORE COMPUTER SCIENCE CONCEPT – SPACE COMPLEXITY
+
+   Space complexity measures memory usage of an algorithm.
+
+   Example:
+
+     Using extra array → O(n)
+     No extra space → O(1)

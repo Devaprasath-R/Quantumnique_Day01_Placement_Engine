@@ -1,0 +1,10 @@
+OPERATING SYSTEMS CONCEPT – DEADLOCK
+
+   Deadlock occurs when processes are waiting for each other indefinitely.
+
+ Conditions:
+
+   - Mutual Exclusion
+   - Hold and Wait
+   - No Preemption
+   - Circular Wait

@@ -1,0 +1,37 @@
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+        Data structures are essential for efficient problem solving. Choosing the
+    right data structure can significantly improve performance.
+
+    Questions :
+
+      1. Why are data structures important?
+      2. What happens if we choose the wrong data structure?
+      3. What does performance mean in programming?
+
+    Answer :
+
+     1.They help store and organize data neatly.
+     2.Program becomes slow and uses more memory.
+     3.Performance in programming refers to how efficiently a program runs, 
+       including its speed and memory usage.
+
+     
+
+Grammar Correction
+
+     1. He go to college daily.
+     2. She don’t likes coding.
+     3. We was solving problems.
+
+    Answer:
+
+     1. He goes to college daily.
+     2. She doesn’t like coding.
+     3. We were solving problems.
+
+
+
+
