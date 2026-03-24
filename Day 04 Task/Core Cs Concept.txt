@@ -1,0 +1,10 @@
+CORE COMPUTER SCIENCE CONCEPT – HASHING
+
+    Hashing maps data to fixed-size values.
+
+      Used in:
+
+        - HashMaps
+        - Caching
+        - Databases
+

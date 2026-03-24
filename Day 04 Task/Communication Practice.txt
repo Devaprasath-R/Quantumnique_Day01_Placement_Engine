@@ -1,0 +1,36 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain a technical concept (e.g., Arrays / DBMS / OS)
+
+Include:
+- Definition
+- Real-world example
+- Use case
+
+-----------------------------------------------------------------------------------------------------------------
+
+Operating System (OS) :
+
+Definition:
+    
+    An Operating System (OS) is system software that acts as a bridge between the user and the computer hardware.
+It manages all resources like CPU, memory, files, and devices.
+
+Real world Example :
+    
+    Bank Manager :
+
+       Customers →  Users
+       Bank resources →  Money, accounts
+       Manager →  Operating System
+
+           The manager handles requests like deposit, withdraw, balance check
+           OS also handles all user requests in a computer
+
+Use Case :
+
+   1.Computers - Windows, Linux
+   2.Mobile phones -  Android, iOS
+   3.Servers & cloud systems
