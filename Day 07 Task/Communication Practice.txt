@@ -1,0 +1,25 @@
+BLOCK 3 – COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain how the Internet works
+
+Include:
+- What happens when you type a URL
+- DNS
+- Server
+- Response
+
+--------------------------------------------------------------------------------------------------------------
+
+When you type a URL
+     You enter a website name (like google.com) in the browser.The browser sends a request to find that website.
+
+DNS (Domain Name System)
+     Works like a phonebook.Converts website name into IP address (numbers).Helps find the correct website location.
+
+Server
+    A computer where the website is stored.Receives your request and Processes it.
+
+Response
+    Server sends back data (text, images, videos).Browser shows the webpage.

@@ -1,0 +1,29 @@
+Reading Passage
+
+Operating systems manage hardware resources and provide services for computer programs.
+Efficient OS design ensures better performance, memory management, and process scheduling.
+
+Questions
+
+1. What is the main role of an operating system?
+2. Why is memory management important?
+3. What is process scheduling?
+
+Answers :
+ 
+     1.Manages computer hardware and runs programs.
+     2.Uses memory properly and avoids errors.
+     3.Decides which program runs and when
+
+Grammar Correction
+
+1. He don’t know operating systems.
+2. She were learning data structures.
+3. They has solved the problem.
+
+Answers :
+     
+      1. He doesn’t know operating systems.
+      2. She was learning data structures.
+      3. They have solved the problem.
+
