@@ -1,0 +1,9 @@
+CORE COMPUTER SCIENCE CONCEPT – STACK
+
+Stack follows LIFO (Last In First Out)
+
+     Operations:
+
+         - Push
+         - Pop
+         - Peek

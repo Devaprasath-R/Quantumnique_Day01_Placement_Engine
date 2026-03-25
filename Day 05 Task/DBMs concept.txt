@@ -1,0 +1,10 @@
+BLOCK 6 – CORE CS CONCEPTS
+
+DBMS CONCEPT – JOINS
+
+    Types of joins:
+    
+       - INNER JOIN
+       - LEFT JOIN
+       - RIGHT JOIN
+       - FULL JOIN

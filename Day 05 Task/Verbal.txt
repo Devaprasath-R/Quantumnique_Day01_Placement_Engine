@@ -1,0 +1,29 @@
+Reading Passage
+
+Algorithms play a crucial role in optimizing system performance.
+Efficient algorithms reduce execution time and resource consumption.
+
+Questions
+
+1. Why are algorithms important?
+2. What happens if inefficient algorithms are used?
+3. What is optimization in computing?
+
+ Answers :
+
+   1.They help solve problems efficiently.They improve system performance.
+   2.Execution becomes slow.More memory and resources are used.System performance decreases
+   3.Making a program faster and more efficient.Improving overall performance
+
+Grammar Correction
+
+1. He have been working here since 2 years.
+2. She did not wrote the code.
+3. They is preparing for interviews.
+
+ Answers :
+
+   1.He has been working here for 2 years.
+   2.She did not write the code.
+   3.They are preparing for interviews.
+
