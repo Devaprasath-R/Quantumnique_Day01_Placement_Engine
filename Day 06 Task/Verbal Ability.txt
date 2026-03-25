@@ -1,0 +1,35 @@
+BLOCK 2 – VERBAL ABILITY (Advanced)
+
+Reading Passage
+
+  Databases are at the heart of modern applications. Efficient storage,
+retrieval, and management of data are essential for building scalable
+software products. Companies rely on well-designed databases to ensure
+data consistency and performance.
+
+Questions :
+
+   1. Why are databases important in modern applications?
+   2. What does data consistency mean?
+   3. Why do companies need well-designed databases?
+
+Answers :
+
+      1.They store and organize large amounts of data.Support smooth functioning of applications.
+    
+      2.Data remains accurate and correct.Same data is shown everywhere in the system.
+
+      3.To improve performance and speed and to handle large-scale data efficiently.
+
+
+Grammar Correction
+
+     1. She do not understand SQL joins.
+     2. He were explaining the database schema.
+     3. They has written the program successfully.
+
+ Answers :
+   
+       1.She does not understand SQL joins.
+       2.He was explaining the database schema.
+       3.They have written the program successfully.
