@@ -1,0 +1,8 @@
+BLOCK 6 – CORE CS CONCEPTS
+
+  DBMS CONCEPT – VIEWS
+
+    A view is a virtual table based on SQL query result.
+
+
+---------------------------------------------------------------------------------------------------------------
